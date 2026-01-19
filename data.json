@@ -1,0 +1,15 @@
+{
+  "city": "Dhaka",
+  "current": {
+    "temp": 28,
+    "condition": "Partly Cloudy",
+    "humidity": 65,
+    "wind": 10,
+    "feels_like": 30
+  },
+  "forecast": [
+    { "day": "Mon", "temp": "30°/22°C", "desc": "Sunny", "icon": "☀️" },
+    { "day": "Tue", "temp": "29°/21°C", "desc": "Cloudy", "icon": "☁️" },
+    { "day": "Wed", "temp": "28°/20°C", "desc": "Rain", "icon": "🌧️" }
+  ]
+}
